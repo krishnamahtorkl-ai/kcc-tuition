@@ -1,0 +1,34 @@
+Mime-Version: 1.0
+Content-Base: http://notepad-online.com/en/
+Content-Type: Multipart/related; boundary="NEXT.ITEM-BOUNDARY";type="text/html"
+
+--NEXT.ITEM-BOUNDARY
+Content-Type: text/html; charset="utf-8"
+Content-Location: http://notepad-online.com/en/
+
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:word" 
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+
+</style>
+</head>
+<body><div style="font-family:Calibri,sans-serif;font-size:11pt;"><p>&lt;!DOCTYPE html&gt;<br>&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;KCC – An Institute for Academic Excellence&lt;/title&gt;<br>&lt;style&gt;<br>body{<br>font-family:Arial;<br>text-align:center;<br>background:#f4f6f8;<br>}<br>.box{<br>background:white;<br>padding:20px;<br>margin:60px auto;<br>width:90%;<br>max-width:500px;<br>border-radius:10px;<br>}<br>a{<br>display:block;<br>margin:20px;<br>padding:12px;<br>background:#007bff;<br>color:white;<br>text-decoration:none;<br>font-size:18px;<br>border-radius:6px;<br>}<br>&lt;/style&gt;<br>&lt;/head&gt;<br>&lt;body&gt;</p><p>&lt;div class="box"&gt;<br>&lt;h1&gt;KCC&lt;/h1&gt;<br>&lt;h3&gt;An Institute for Academic Excellence&lt;/h3&gt;<br>&lt;p&gt;Classes: 6 to 10&lt;/p&gt;</p><p>&lt;a href="test.html"&gt;Start Online MCQ Test&lt;/a&gt;<br>&lt;/div&gt;</p><p>&lt;/body&gt;<br>&lt;/html&gt;</p></div></body></html>
+--NEXT.ITEM-BOUNDARY--
